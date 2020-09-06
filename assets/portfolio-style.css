@@ -1,0 +1,31 @@
+body {  
+  background-color: rgba(188, 195, 196, 0.746);
+}
+
+.container {
+  color:#333;
+  float: left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-right: 100;
+  padding: 100px;
+  width: 1024px; 
+}
+.row div{
+  padding: 10px;
+ }
+
+@media (max-width: 992px) {
+  img {
+  padding-bottom: 30px;
+     }
+ }
+
+ .fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 30px;
+  text-align: left;
+  text-decoration: none;
+  border-radius: 40%;
+  color: azure;
+}
