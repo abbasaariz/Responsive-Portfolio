@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Responsive-Portfolio
 This project is about creating and a responsive portfolio.
 
@@ -16,3 +17,4 @@ Used <div container and grid layout for columns and rows to position and wrap th
 The main html page is the index.html named as "About" which then has links to other two pages. The contact page contains a form for users to contact the developer. The portfolio page contains photos.
 
 Each page contains social media icons for the links to social media accounts.
+=======
