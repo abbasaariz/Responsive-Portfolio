@@ -1,21 +1,25 @@
 
 body {
-    background-color: rgba(188, 195, 196, 0.746);
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 18px; 
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  line-height: 150%;
+  color: #333;
+  background-color: rgba(180, 189, 190, 0.746);   
 }
 
-.form-group div {
-    background-color: rgba(83, 90, 90, 0.746); 
+.form-group {
+   margin-left: 5mm;
+   margin-top: 5mm;
 }
 
-.container {
-    color:#333;
-    float: left;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    margin-right: 100;
-    padding: 100px;
-    width: 1024px;
+.container-md {
+   background-color: rgba(174, 179, 182, 0.774);
+   color:#333;
+   float: left;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   margin-left: 1.7cm;
+   margin-top: 1cm;
+   margin-right: 2cm;
 }
 
 .fa {
@@ -27,3 +31,24 @@ body {
     border-radius: 40%;
     color: azure;
   }
+
+  .row-1 {
+    margin-top: 1cm;
+    margin-left: 5mm;
+    border-bottom: 1px solid black;
+    }
+
+
+  .navbar h1 {
+    margin-left: 5mm;
+  }
+
+.collapse.navbar-collapse {
+   margin-right: 5mm;
+}
+
+.btn-secondary {
+    margin-left: 4mm;
+    font-size: large;
+    margin-bottom: 1cm;
+}
