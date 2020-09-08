@@ -12,7 +12,7 @@ Used Bootsrap grid layouts and components such as Navbar for header and footer, 
 
 Used CSS social media icons for the footer.
 
-Used <div container and grid layout for columns and rows to position and wrap the text with image.
+Used "div" container, and grid layout for columns and rows to position and wrap the text with image.
 
 The main html page is the index.html named as "About" which then has links to other two pages. The contact page contains a form for users to contact the developer. The portfolio page contains photos.
 
