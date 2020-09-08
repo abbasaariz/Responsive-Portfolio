@@ -6,13 +6,12 @@ body {
   margin-left: 1cm;
 }
 .container {
-  background-color:  rgba(169, 174, 177, 0.774);
-   color:#333;
-   float: left;
+   background-color:  rgba(169, 174, 177, 0.774);
    font-family: Georgia, 'Times New Roman', Times, serif;
    margin-left: 2cm;
    margin-top: 1cm;
    margin-right: 4cm;
+   margin-bottom: 3cm;
 }
 .row div {
   padding: 6px;
